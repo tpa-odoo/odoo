@@ -1,0 +1,4 @@
+[submodule "tpa-odoo/libretech"]
+	path = tpa-odoo/libretech
+	url = git@github.com:tpa-odoo/libretech.git
+	branch = devs
